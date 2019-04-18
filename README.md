@@ -62,7 +62,5 @@ Observable.just(1, 3, 5, 7, 9)
 ![请点赞 ~](https://upload-images.jianshu.io/upload_images/57036-3e15111b4263be48.png)
 
 
-更多内容请关注我的微信公众号
 
-![公众号](https://upload-images.jianshu.io/upload_images/57036-dc3af94a5daf478c.jpg)
 
